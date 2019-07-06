@@ -1,0 +1,15 @@
+<suite name = "Default suite">
+
+	<test name ="Default test">
+	
+		<classes>
+
+				<class name = "TestNG.AnnotationClass" />
+
+				
+
+		</classes>
+
+	</test>
+	
+</suite>
